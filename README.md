@@ -26,6 +26,27 @@
 
 <p align="left"> <a href="https://linked.com/in/manandevpro" target="blank"><img src="https://img.shields.io/twitter/follow/manandevpro?logo=twitter&style=for-the-badge" alt="manandevpro" /></a> </p>
 
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class WebDeveloper:
+
+    def __init__(self):
+        self.name = "Abdul Manan"
+        self.role = "Computer Science Student"
+        self.language_spoken = ["ur_PK", "en_UK", "ru_RU"]
+        
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = WebDeveloper()
+me.say_hi()
+```
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/souldonor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="souldonor" height="30" width="40" /></a>
