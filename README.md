@@ -5,26 +5,26 @@
 
 
 - 🔭 I’m currently working on **FastAPI**
-- 
+
 - 🌱 I’m currently learning **Python Automation**
 
 - 👯 I’m looking to collaborate on **REST API**
-- 
+
 - 📝 I regularly write articles on [manandevpro.com/](manandevpro.com/)
-- 
+
 - 💬 Ask me about **HTML, CSS, JavaScript, Django, Backend**
-- 
+
 - 📫 How to reach me **manandevpro@gmail.com**
-- 
+
 - 📄 Know about my experiences [https://www.linkedin.com/in/manandevpro](https://www.linkedin.com/in/manandevpro)
-- 
+  
 - ⚡ Fun fact **I have a great humor and I'm also a memer.**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manandevpro&label=Profile%20views&color=0e75b6&style=flat" alt="manandevpro" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manandevpro" alt="manandevpro" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/manandevpro" target="blank"><img src="https://img.shields.io/twitter/follow/manandevpro?logo=twitter&style=for-the-badge" alt="manandevpro" /></a> </p>
+<p align="left"> <a href="https://linked.com/in/manandevpro" target="blank"><img src="https://img.shields.io/twitter/follow/manandevpro?logo=twitter&style=for-the-badge" alt="manandevpro" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
