@@ -9,7 +9,7 @@
 - 📝 I regularly write articles on [manandevpro.com/](manandevpro.com/)
 - 💬 Ask me about **HTML, CSS, JavaScript, Django, Backend**
 - 📫 How to reach me **manandevpro@gmail.com**
-- 📄 Know about my experiences [https://www.linkedin.com/in/manancoder](https://www.linkedin.com/in/manancoder)
+- 📄 Know about my experiences [https://www.linkedin.com/in/manandevpro](https://www.linkedin.com/in/manandevpro)
 - ⚡ Fun fact **I have a great humor and I'm also a memer.**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manandevpro&label=Profile%20views&color=0e75b6&style=flat" alt="manandevpro" /> </p>
@@ -22,13 +22,13 @@
 <p align="left">
 <a href="https://codepen.io/souldonor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="souldonor" height="30" width="40" /></a>
 <a href="https://dev.to/manancoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="manancoder" height="30" width="40" /></a>
-<a href="https://twitter.com/manancoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manancoder" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/manancoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manancoder" height="30" width="40" /></a>
+<a href="https://twitter.com/manandevpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manancoder" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/manandevpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manancoder" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13804474/abdul-manan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/13804474/abdul-manan" height="30" width="40" /></a>
 <a href="https://codesandbox.com/manancoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="manancoder" height="30" width="40" /></a>
 <a href="https://kaggle.com/abdulmanan7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abdulmanan7" height="30" width="40" /></a>
-<a href="https://fb.com/manancoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="manancoder" height="30" width="40" /></a>
-<a href="https://instagram.com/manancoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manancoder" height="30" width="40" /></a>
+<a href="https://fb.com/manandevpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="manancoder" height="30" width="40" /></a>
+<a href="https://instagram.com/manandevpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manancoder" height="30" width="40" /></a>
 <a href="https://dribbble.com/souldonor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="souldonor" height="30" width="40" /></a>
 <a href="https://www.behance.net/souldonor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="souldonor" height="30" width="40" /></a>
 <a href="https://hashnode.com/@manancoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@manancoder" height="30" width="40" /></a>
