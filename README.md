@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **manandevpro@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/manandevpro](https://www.linkedin.com/in/manandevpro)
+- 📄 Know about my experiences [LinkedIn](www.linkedin.com/in/abdul-manan-b8bb6a3ba)
   
 - ⚡ Fun fact **I have a great humor and I'm also a memer.**
 
@@ -52,7 +52,7 @@ me.say_hi()
 <a href="https://codepen.io/souldonor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="souldonor" height="30" width="40" /></a>
 <a href="https://dev.to/manancoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="manancoder" height="30" width="40" /></a>
 <a href="https://twitter.com/manandevpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manancoder" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/manandevpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manancoder" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/abdul-manan-b8bb6a3ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manancoder" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13804474/abdul-manan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/13804474/abdul-manan" height="30" width="40" /></a>
 <a href="https://codesandbox.com/manancoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="manancoder" height="30" width="40" /></a>
 <a href="https://kaggle.com/abdulmanan7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abdulmanan7" height="30" width="40" /></a>
